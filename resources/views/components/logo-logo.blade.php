@@ -1,0 +1,1 @@
+<img style="width: 40px; height: 40px;" src="https://static.wixstatic.com/media/e2e6fb_7fadde84443a46509fbc5277c2be1cfd~mv2.png/v1/fill/w_340,h_504,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SND_0002_Trembo.png" alt="">
